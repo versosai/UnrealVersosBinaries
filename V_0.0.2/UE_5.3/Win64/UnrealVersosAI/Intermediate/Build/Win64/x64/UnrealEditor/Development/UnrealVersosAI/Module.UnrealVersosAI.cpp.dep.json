@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\sange\\onedrive\\desktop\\github\\git_latest\\unrealversos\\unrealversos\\plugins\\unrealversosai\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealversosai\\module.unrealversosai.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\sange\\onedrive\\desktop\\github\\git_latest\\unrealversos\\unrealversos\\intermediate\\build\\win64\\x64\\unrealversoseditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\sange\\onedrive\\desktop\\github\\git_latest\\unrealversos\\unrealversos\\plugins\\unrealversosai\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealversosai\\definitions.unrealversosai.h",
+            "c:\\users\\sange\\onedrive\\desktop\\github\\git_latest\\unrealversos\\unrealversos\\plugins\\unrealversosai\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealversosai\\uht\\unrealversosai.gen.cpp",
+            "c:\\users\\sange\\onedrive\\desktop\\github\\git_latest\\unrealversos\\unrealversos\\plugins\\unrealversosai\\source\\unrealversosai\\public\\unrealversosai.h",
+            "c:\\users\\sange\\onedrive\\desktop\\github\\git_latest\\unrealversos\\unrealversos\\plugins\\unrealversosai\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealversosai\\uht\\unrealversosai.generated.h",
+            "c:\\users\\sange\\onedrive\\desktop\\github\\git_latest\\unrealversos\\unrealversos\\plugins\\unrealversosai\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealversosai\\uht\\unrealversosai.init.gen.cpp",
+            "c:\\users\\sange\\onedrive\\desktop\\github\\git_latest\\unrealversos\\unrealversos\\plugins\\unrealversosai\\source\\unrealversosai\\private\\unrealversosai.cpp",
+            "d:\\program files\\epic games\\ue_5.3\\engine\\source\\editor\\unrealed\\public\\editordragtools.h",
+            "d:\\program files\\epic games\\ue_5.3\\engine\\source\\editor\\unrealed\\public\\levelviewportclickhandlers.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

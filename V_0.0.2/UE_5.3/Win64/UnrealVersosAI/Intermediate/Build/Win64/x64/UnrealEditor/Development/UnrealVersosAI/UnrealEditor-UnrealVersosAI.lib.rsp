@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealVersosAI.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sange\OneDrive\Desktop\github\git_latest\unrealversos\UnrealVersos\Intermediate\Build\Win64\x64\UnrealVersosEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\sange\OneDrive\Desktop\github\git_latest\unrealversos\UnrealVersos\Plugins\UnrealVersosAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealVersosAI\Module.UnrealVersosAI.cpp.obj"
+"C:\Users\sange\OneDrive\Desktop\github\git_latest\unrealversos\UnrealVersos\Plugins\UnrealVersosAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealVersosAI\Default.rc2.res"
+/OUT:"C:\Users\sange\OneDrive\Desktop\github\git_latest\unrealversos\UnrealVersos\Plugins\UnrealVersosAI\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealVersosAI\UnrealEditor-UnrealVersosAI.lib"
