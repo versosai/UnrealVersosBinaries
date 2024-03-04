@@ -1,6 +1,7 @@
 1.Download and unzip the repository.
 
-2.Based on the OS and Unreal engine version, copy the "UnrealVersosAI" to "UE_5.3\Engine\Plugins\Marketplace" directory of your Unreal Engine installation.
+2.Find the appropriate version of the Versos Plugin, based on the OS and Unreal engine version you are using.
+3. Copy the "UnrealVersosAI" to "UE_5.3\Engine\Plugins\Marketplace" directory of your Unreal Engine installation.
 
 3.Open your Unreal Engine project, go to Edit -> Plugins, and enable the "UnrealVersosAI" plugin.
 <img width="1247" alt="image" src="https://github.com/versosai/UnrealVersosBinaries/assets/124153747/a77f3324-0d97-46e5-9c4d-7c289912c0df">
