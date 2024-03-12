@@ -1,4 +1,5 @@
-1. Download and unzip the repository.
+1. Download and unzip the
+[zipped repository](https://github.com/versosai/UnrealVersosBinaries/archive/refs/heads/main.zip)
 
 2. Find the appropriate version of the Versos Plugin, based on the OS and Unreal engine version you are using.
 
